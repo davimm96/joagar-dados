@@ -33,7 +33,7 @@ var demo = document.getElementById('demo')
             demo.innerHTML += `O número dois apareceu: ${dois.length} vezes.<br>`
             demo.innerHTML += `O número três apareceu: ${tres.length} vezes.<br>`
             demo.innerHTML += `O número quatro apareceu: ${quatro.length} vezes.<br>`
-            demo.innerHTML += `O número sinco apareceu: ${cinco.length} vezes.<br>`
+            demo.innerHTML += `O número cinco apareceu: ${cinco.length} vezes.<br>`
             demo.innerHTML += `O número seis apareceu: ${seis.length} vezes.`
         }
     }     
